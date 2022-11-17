@@ -1,0 +1,16 @@
+Microsoft SQL Server y Azure Studio en Linux
+
+La idea de este documento es plasmar lo que salió desde la materia Bases de Datos 1 en la Tecnicatura en Inteliencia Artificial que se dicta en la UNR (Universidad Nacional de Rosario), al encontrarnos con la necesidad de trabajar con MSSQL en un entorno Linux a través de Docker y un entorno gráfico para configurar, crear y controlar las Bases de Datos.
+Se va a ordernar un paso a paso de información que ya existe en documentación de Microsoft y docker.
+
+En este caso se trabajara con Ubuntu 22.04.
+
+todo! requisitos sistema (segun windows, para correr la imagen)
+
+todo! instalación de docker y levantar la imagen de mssql server 2019/2022, dockerhub
+
+todo! instalación de azure studio
+
+todo! vinculación del puerto donde levanto la imagen de docker y el azure studio
+
+
